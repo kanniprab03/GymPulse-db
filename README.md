@@ -27,6 +27,6 @@ This dataset is publicly available for use in **fitness applications, research, 
 Ensure compliance with the original data providers' **license agreements** before redistribution. If you modify and use this dataset, proper attribution to original sources is appreciated.
 
 ---
-**🛠 Maintainer:** [Your Name/GitHub](https://github.com/kanniprab03)  
+**🛠 Maintainer:** [kanniprab03](https://github.com/kanniprab03)  
 **📌 Project:** Gym Pulse
 
